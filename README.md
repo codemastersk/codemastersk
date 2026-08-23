@@ -1,27 +1,251 @@
-# 💫 About Me:
-Hi 👋, I'm Saurav Kumar<br>🔭 I’m currently working on Building real-world DevOps & DevSecOps projects with Azure, Terraform, Docker and Kubernetes<br>🌱 I’m currently learning Advanced Kubernetes, Azure architecture, Terraform and DevSecOps.<br>🤝 I’m looking for help with Kubernetes architecture, cloud security and production-grade deployments.<br>👯 I’m looking to collaborate on Cloud infrastructure, CI/CD automation and DevSecOps projects.<br>💬 Ask me about Azure • Terraform • Docker • Kubernetes • Jenkins • GitHub Actions • Linux<br>📫 How to reach me sauravkumar.devops@gmail.com<br>⚡ Fun fact ⚡ Fun fact I love automating things that humans shouldn't have to do twice. 😄
+<div align="center">
 
+# 👋 Hi, I'm Saurav Kumar
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/imsaurav84) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imsaurav84) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imsaurav84) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsaurav84) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sa8406948) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/imsaurav84) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imsaurav84) 
+### 🚀 DevOps Engineer | ☁️ Cloud Automation | 🔁 CI/CD | 🔐 DevSecOps
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=codemastersk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=codemastersk&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codemastersk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>
+  <a href="https://github.com/codemastersk">
+    <img src="https://komarev.com/ghpvc/?username=codemastersk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/codemastersk?tab=followers">
+    <img src="https://img.shields.io/github/followers/codemastersk?label=Followers&style=flat&color=0e75b6" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/codemastersk?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?logo=github" alt="Repositories"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codemastersk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://linkedin.com/in/imsaurav84">LinkedIn</a> •
+  <a href="https://github.com/codemastersk">GitHub</a> •
+  <a href="mailto:sauravkumar.devops@gmail.com">Email</a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codemastersk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=codemastersk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **DevOps Engineer** focused on building reliable cloud infrastructure,
+automating deployments, and improving application delivery.
+
+- 🔭 Building real-world **DevOps & DevSecOps** projects
+- ☁️ Working with **Azure, AWS & cloud infrastructure**
+- 🏗️ Automating infrastructure with **Terraform**
+- 📦 Containerizing applications with **Docker & Kubernetes**
+- 🔁 Building CI/CD pipelines with **Jenkins & GitHub Actions**
+- 🔐 Applying security checks with **tfsec, TFLint & Gitleaks**
+- 🐧 Working with **Linux, Bash & Python**
+- 🤝 Open to collaborating on **Cloud, DevOps, CI/CD & DevSecOps** projects
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform" height="48" alt="Cloud and Terraform"/>
+</p>
+
+## 🚀 DevOps & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,linux,nginx" height="48" alt="DevOps tools"/>
+</p>
+
+## 💻 Programming & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,mysql" height="48" alt="Programming and database"/>
+</p>
+
+## 🔐 Security & Monitoring
+
+<p>
+
+<img src="https://img.shields.io/badge/tfsec-111111?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="tfsec"/>
+
+<img src="https://img.shields.io/badge/TFLint-111111?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="TFLint"/>
+
+<img src="https://img.shields.io/badge/Gitleaks-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Gitleaks"/>
+
+<img src="https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
+
+<img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=codemastersk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"
+alt="GitHub statistics"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemastersk&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+alt="Top languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=codemastersk&hide_border=true&theme=transparent"
+alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=codemastersk&bg_color=00000000&color=0e75b6&line=0e75b6&point=24292f&area=true&hide_border=true"
+alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=codemastersk&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+alt="GitHub trophies"/>
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+> A selection of DevOps, Cloud and DevSecOps projects.
+
+| 🚀 Project | 📝 What it demonstrates |
+|---|---|
+| 🚀 **DevOps-Flow** | End-to-end CI/CD, Docker, Kubernetes and cloud deployment |
+| 🔐 **DevSecOps Pipeline** | CI/CD with security scanning, IaC validation and secure deployments |
+| ☁️ **Azure Infrastructure with Terraform** | Reusable Infrastructure as Code for Azure |
+| 🐳 **Containerized Application** | Dockerized application with production-style deployment |
+| ☸️ **AKS Deployment** | Kubernetes workloads, services, ingress and scaling |
+| 🔄 **CI/CD Automation** | Jenkins / GitHub Actions based automation |
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/codemastersk?tab=repositories">
+
+<img
+src="https://img.shields.io/badge/🚀%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github"
+alt="Explore repositories"/>
+
+</a>
+
+</div>
+
+---
+
+# 📦 Repository & Contribution Overview
+
+<div align="center">
+
+<a href="https://github.com/codemastersk?tab=repositories">
+
+<img
+src="https://img.shields.io/badge/📦%20Repositories-View%20All-0e75b6?style=for-the-badge"
+alt="Repositories"/>
+
+</a>
+
+<a href="https://github.com/codemastersk?tab=stars">
+
+<img
+src="https://img.shields.io/badge/⭐%20Stars-View%20on%20GitHub-f1c40f?style=for-the-badge"
+alt="Stars"/>
+
+</a>
+
+<a href="https://github.com/codemastersk?tab=overview">
+
+<img
+src="https://img.shields.io/badge/🔥%20Contribution%20Streak-See%20Above-e74c3c?style=for-the-badge"
+alt="Contribution streak"/>
+
+</a>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img
+src="https://ghchart.rshah.org/0e75b6/codemastersk"
+alt="GitHub contribution calendar"/>
+
+</div>
+
+---
+
+# 📊 GitHub Contribution Graph
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=codemastersk&custom_title=Saurav's%20GitHub%20Contribution%20Graph&hide_border=true&area=true&bg_color=00000000&color=0e75b6&line=0e75b6&point=24292f"
+alt="Contribution graph"/>
+
+</div>
+
+---
+
+# 🎯 What I Work With
+
+```text
+Cloud
+├── Azure
+├── AWS
+└── GCP
+
+Infrastructure as Code
+└── Terraform
+
+Containers
+├── Docker
+└── Kubernetes / AKS
+
+CI/CD
+├── Jenkins
+└── GitHub Actions
+
+Security
+├── tfsec
+├── TFLint
+└── Gitleaks
+
+Monitoring
+├── Prometheus
+└── Grafana
+
+Operating Systems
+└── Linux
+
+Scripting
+├── Bash
+└── Python
