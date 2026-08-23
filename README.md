@@ -36,13 +36,12 @@ automating deployments, and improving application delivery.
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&text=⚡%20DevOps%20Mindset&fontColor=58A6FF&fontSize=24&fontAlignY=28&desc=Automate%20the%20repeatable%2C%20secure%20the%20critical%2C%20and%20continuously%20improve%20everything.&descColor=C9D1D9&descSize=15&descAlignY=52&stroke=30363D&strokeWidth=1"
+src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&text=⚡%20DevOps%20Mindset&fontColor=58A6FF&fontSize=24&fontAlignY=28&desc=Automate%20the%20repeatable%2C%20secure%20the%20critical%2C%20and%20continuously%20improve%20everything.&descColor=C9D1D9&descSize=10&descAlignY=32&stroke=30363D&strokeWidth=1"
 alt="DevOps Mindset"
 />
-
+**— Saurav Kumar**
 <br>
 
-**— Saurav Kumar**
 
 </div>
 
