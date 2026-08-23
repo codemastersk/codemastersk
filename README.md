@@ -1,5 +1,5 @@
 <div align="center">
- 👋 **Hi, I'm Saurav Kumar**
+ <h2 align="center"><strong>👋 Hi, I'm Saurav Kumar</strong></h2>
 
 ### 🚀 DevOps Engineer | ☁️ Cloud Automation | 🔁 CI/CD | 🔐 DevSecOps
 
