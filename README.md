@@ -28,7 +28,7 @@
 
 ### 🧑‍💻 About Me
 
-I am a results-driven **DevOps & Cloud Engineer** focused on building reliable cloud infrastructure, automating end-to-end deployments, and embedding **Shift-Left Security (DevSecOps)** into modern application delivery.
+I'm a **DevOps Engineer** focused on building reliable cloud infrastructure, automating deployments, and embedding **Shift-Left Security (DevSecOps)** into modern application delivery. 
 
 - ☁️ **Multi-Cloud Infrastructure:** Designing resilient, cost-optimized architectures on **Azure, AWS & Google Cloud**.
 - 🏗️ **Infrastructure as Code (IaC):** Provisioning modular, state-locked cloud environments using **Terraform & Ansible**.
