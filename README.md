@@ -4,8 +4,8 @@
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Saurav%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20CI/CD%20%7C%20IaC%20%7C%20DevSecOps&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <!-- Typing SVG Animation -->
-  <a href="https://github.com/codemastersk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Automating+Cloud+Infrastructure+with+Terraform+%26+Ansible;Building+Zero-Downtime+CI%2FCD+%26+DevSecOps+Pipelines;Scaling+Microservices+on+Kubernetes+(EKS+%2F+AKS);Cloud+Native+%7C+AWS+%7C+Microsoft+Azure+%7C+Linux" alt="Typing SVG" />
+<a href="https://github.com/codemastersk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Automating+Cloud+Infrastructure+with+Terraform+%26+Ansible;Building+Zero-Downtime+CI%2FCD+%26+DevSecOps+Pipelines;Scaling+Microservices+on+Kubernetes+(EKS+%2F+AKS);Cloud+Native+%7C+Microsoft+Azure+%7C+GCP+%7C+Linux" alt="Typing SVG" />
   </a>
 
   <br/><br/>
